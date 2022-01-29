@@ -1,0 +1,16 @@
+#jugadores{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+
+#porteros{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+}
+
+#desplazamiento{
+  margin-left: 100px;
+}

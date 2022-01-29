@@ -1,0 +1,25 @@
+#historia{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+
+.fecha{
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
+  margin-top: 10px;
+}
+
+#intro{
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  font-size: 35px;
+  margin-left: 10px;
+}
+
+.athletic{
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  font-size: 25px;
+  margin-left: 15px;
+}

@@ -1,0 +1,25 @@
+#plantilla{
+  text-align: center;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#filosofia{
+  text-align: center;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.informacion{
+  color: black;
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+}
+
+.imagen{
+  margin-bottom: 30px;
+}

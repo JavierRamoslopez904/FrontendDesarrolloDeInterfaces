@@ -1,0 +1,30 @@
+#porteros{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+
+#parrafo{
+  font-size: 30px;
+  margin-right: 50px ;
+  font-family: 'Oswald','sans-serif';
+  color: white;
+}
+
+#desplazamiento {
+  margin-left: 50px;
+  height: 180px;
+  margin-top: 10px;
+}
+
+#imagen{
+  margin-right: 100px;
+}
+
+#titulo{
+  font-family: 'Oswald', sans-serif;
+}
+
+.imagen{
+  margin-left: 10px;
+}

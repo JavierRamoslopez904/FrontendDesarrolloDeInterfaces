@@ -1,0 +1,23 @@
+#gracias{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 50px;
+  text-align: center;
+}
+
+.foto{
+  margin-bottom: 10px;
+  margin-left: 40px;
+}
+
+.fotoo{
+  margin-left: 150px;
+}
+
+.boton{
+  margin-left: 350px;
+  margin-top: 155px;
+  font-family: 'Oswald', sans-serif;
+  border-radius: 20px;
+  font-size: 2rem;
+}

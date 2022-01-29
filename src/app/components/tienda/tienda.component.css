@@ -1,0 +1,13 @@
+#tienda{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+
+#botons{
+  margin-left: 95px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
